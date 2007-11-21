@@ -1,0 +1,253 @@
+libOPCODE_a-OPC_Model.o: /home/mezl/Desktop/ode-0.9/OPCODE/OPC_Model.cpp \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Stdafx.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Opcode.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_IceHook.h /usr/include/stdio.h \
+  /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-32.h \
+  /usr/lib/gcc/i386-redhat-linux/4.1.2/include/stddef.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+  /usr/lib/gcc/i386-redhat-linux/4.1.2/include/stdarg.h \
+  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h \
+  /usr/include/bits/stdio.h /usr/include/stdlib.h \
+  /usr/include/bits/waitflags.h /usr/include/bits/waitstatus.h \
+  /usr/include/endian.h /usr/include/bits/endian.h /usr/include/xlocale.h \
+  /usr/include/sys/types.h /usr/include/time.h /usr/include/sys/select.h \
+  /usr/include/bits/select.h /usr/include/bits/sigset.h \
+  /usr/include/bits/time.h /usr/include/sys/sysmacros.h \
+  /usr/include/bits/pthreadtypes.h /usr/include/alloca.h \
+  /usr/include/assert.h /usr/include/string.h \
+  /usr/lib/gcc/i386-redhat-linux/4.1.2/include/float.h \
+  /usr/include/math.h /usr/include/bits/huge_val.h \
+  /usr/include/bits/huge_valf.h /usr/include/bits/huge_vall.h \
+  /usr/include/bits/inf.h /usr/include/bits/nan.h \
+  /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+  /usr/include/bits/mathinline.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePreprocessor.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceTypes.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceFPU.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceMemoryMacros.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceUtils.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceContainer.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePairs.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceRevisitedRadix.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceRandom.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceAxes.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePoint.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceHPoint.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceMatrix3x3.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceMatrix4x4.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePlane.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceRay.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceIndexedTriangle.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceTriangle.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceTriList.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceAABB.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceOBB.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceBoundingSphere.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceSegment.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceLSS.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_Settings.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_Common.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_MeshInterface.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_TreeBuilders.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_AABBTree.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_OptimizedTree.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_BaseModel.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_Model.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_HybridModel.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_Collider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_VolumeCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_TreeCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_RayCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_SphereCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_OBBCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_AABBCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_LSSCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_PlanesCollider.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_Picking.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_BoxPruning.h \
+  /home/mezl/Desktop/ode-0.9/OPCODE/OPC_SweepAndPrune.h
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Stdafx.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Opcode.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_IceHook.h:
+
+/usr/include/stdio.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/lib/gcc/i386-redhat-linux/4.1.2/include/stddef.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/lib/gcc/i386-redhat-linux/4.1.2/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+/usr/include/bits/stdio.h:
+
+/usr/include/stdlib.h:
+
+/usr/include/bits/waitflags.h:
+
+/usr/include/bits/waitstatus.h:
+
+/usr/include/endian.h:
+
+/usr/include/bits/endian.h:
+
+/usr/include/xlocale.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/sys/select.h:
+
+/usr/include/bits/select.h:
+
+/usr/include/bits/sigset.h:
+
+/usr/include/bits/time.h:
+
+/usr/include/sys/sysmacros.h:
+
+/usr/include/bits/pthreadtypes.h:
+
+/usr/include/alloca.h:
+
+/usr/include/assert.h:
+
+/usr/include/string.h:
+
+/usr/lib/gcc/i386-redhat-linux/4.1.2/include/float.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/huge_valf.h:
+
+/usr/include/bits/huge_vall.h:
+
+/usr/include/bits/inf.h:
+
+/usr/include/bits/nan.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/bits/mathinline.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePreprocessor.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceTypes.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceFPU.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceMemoryMacros.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceUtils.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceContainer.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePairs.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceRevisitedRadix.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceRandom.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceAxes.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePoint.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceHPoint.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceMatrix3x3.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceMatrix4x4.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IcePlane.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceRay.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceIndexedTriangle.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceTriangle.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceTriList.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceAABB.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceOBB.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceBoundingSphere.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceSegment.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/Ice/IceLSS.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_Settings.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_Common.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_MeshInterface.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_TreeBuilders.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_AABBTree.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_OptimizedTree.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_BaseModel.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_Model.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_HybridModel.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_Collider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_VolumeCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_TreeCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_RayCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_SphereCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_OBBCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_AABBCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_LSSCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_PlanesCollider.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_Picking.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_BoxPruning.h:
+
+/home/mezl/Desktop/ode-0.9/OPCODE/OPC_SweepAndPrune.h:
