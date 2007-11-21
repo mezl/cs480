@@ -1,0 +1,3 @@
+libodetest_a-TestLauncher.o: TestLauncher.cpp TestLauncher.h
+
+TestLauncher.h:
